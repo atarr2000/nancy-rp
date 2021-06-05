@@ -1,0 +1,17 @@
+{
+  "name": "fivem-status-bot",
+  "version": "1.0.0",
+  "description": "# Do not put this in your server resources, this is ment to run outside of your server and will not work if you try to run it of your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fivereborn-query": "^1.0.4"
+  },
+  "devDependencies": {}
+}
